@@ -1,4 +1,8 @@
-![banner](1_yw0TnheAGN-LPneDaTlaxw.gif)
+
+<div align="center">
+  <img src="https://github.com/Kuntal-Gain/sumitdas16/assets/166943482/20f029ee-1a49-4478-9988-517535831e67" alt="banner" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Sumit Das </h1>
 <h3 align="center">A passionate Full Stack Developer from India </h3>
